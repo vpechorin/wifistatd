@@ -3,7 +3,7 @@ wifistatd
 
 wifistatd-0.1a 06/10/2002 by Victor Pechorin <dev@pechorina.net>
 
- Table_Of_Content:
+ Table Of Content:
 
    * description
    * changelog
@@ -13,18 +13,18 @@ wifistatd-0.1a 06/10/2002 by Victor Pechorin <dev@pechorina.net>
    * where_to_find
    * comments_and_anything_else
 
-Welcome to Wifistatd
+# Welcome to Wifistatd
 
- description
+## description
   wifistatd is an easy program written in Perl for monitoring signal/
   noise/link levels on selected wireless interface. The result is a 
   simple PNG image, which may be used at web-page.
 
- changelog
+## changelog
   06/10/2002: bugfix: corrected missed install call (thx to Paul Bettinger)
   02/10/2002: initial release
 
- install
+## install
   Required packages:
   Perl    (Tested with 5.6.1)
   rrdtool (Tested with v. 1.0.39)
@@ -39,7 +39,7 @@ Welcome to Wifistatd
 
   To configure daemon edit the head part of wifistatd.pl.
   
- getting_started
+## getting started
   To start, just type:
   
     ./wifistatd.pl start
