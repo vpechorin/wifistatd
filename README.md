@@ -1,7 +1,7 @@
 wifistatd
 =========
 
-wifistatd-0.1a 06/10/2002 by Victo Pechorin <dev@pechorina.net>
+wifistatd-0.1a 06/10/2002 by Victor Pechorin <dev@pechorina.net>
 
  Table_Of_Content:
 
@@ -50,11 +50,4 @@ Welcome to Wifistatd
 
  bugs
   Nothing found...
- 
- where_to_find
-  You can download the latest version of wifistatd from:
-   http://www.globalmediapro.com/dev/projects/wifi/wifistatd-current.tar.gz
-  
- comments_and_anything_else
-  Comments, questions and suggestions are welcome.
-  But don't expect too much from me ;>
+
