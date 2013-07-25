@@ -1,19 +1,8 @@
-wifistatd
-=========
+# wifistatd
 
-wifistatd-0.1a 06/10/2002 by Victor Pechorin <dev@pechorina.net>
-
- Table Of Content:
-
-   * description
-   * changelog
-   * install
-   * getting_started
-   * bugs
-   * where_to_find
-   * comments_and_anything_else
-
-# Welcome to Wifistatd
+  wifistatd is a simple program written in Perl for monitoring signal/
+  noise/link levels on selected wireless interface. The result is a 
+  simple PNG image, which may be used at web-page.
 
 ## description
   wifistatd is an easy program written in Perl for monitoring signal/
